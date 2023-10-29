@@ -1,0 +1,6 @@
+
+testes_automatizados/.mvn/wrapper/maven-wrapper.jar
+testes_automatizados/.mvn/wrapper/maven-wrapper.jar
+*.jar
+testes_automatizados/mvnw
+*.cmd
