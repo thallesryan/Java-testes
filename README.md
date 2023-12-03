@@ -6,3 +6,6 @@
 - Testes de unidade
 - Testes de integração
 - Testes funcionais
+
+- Complexidade Cliclomática
+- Grafo de Causa e Efeito
